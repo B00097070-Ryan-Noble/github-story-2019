@@ -8,4 +8,4 @@
     
 ### Chapters:
 
-* [Chapter 1: Trees](http://github.com)
+* [Chapter 1: Trees](chapter01.html)
