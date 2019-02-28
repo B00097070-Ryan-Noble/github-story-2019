@@ -7,7 +7,8 @@
     
 - Chapter one talks about some of the ways the leaves of a tree change during spring.
 
-- Chapter two
+- In chapter two, the weather & climate during spring is talked about.
+  As well as difference between the Northern and the Southern Hemisphere experience of the season. 
 
 - Chapter three
     
