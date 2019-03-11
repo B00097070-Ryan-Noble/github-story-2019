@@ -1,21 +1,23 @@
-# Chapter 1: A Tree's leaves
+# Chapter 2:
 
-## Beginning of the Season:
+## Weather & Hemispheres
 
-At the start of the spring season trees are without leaves dropped from when the tree began its preparation for dormancy for the winter, in the autumn.
-The period of which a tree is dormant for depends on the local environment, geographical location and its species.
+### The weather and climate:
 
+  During this transitional season between winter and summer, where we can see days getting longer, temperatures slowly increasing and plants blooming after the winter months.
+  In the UK and Ireland during the spring months, the weather is typically dry and calm to due the heat loss from autumn to winter of the Atlantic.
+  This leads to a reduce in heat and moisture transferred into the atmosphere.
+  Due to the sun being higher in the sky, the temperatures rise during the day while staying cool at night, this is because of the warmer ocean temperature.
 
-The leaves will begin to react to the warmer temperatures and the increasing length of available daylight of their environment, the buds will start to open followed by the new leaves beginning to expand from these revealed buds.
-During this period the production of chlorophyll (the pigment that results in plants’ green colour) starts which brings about the process of photosynthesis in these newly developed leaves, triggering a period of rapid growth.
-As time progresses the colour of the leaves become stronger due to the abundance of nutrients available to the leaves through the tree and the amount of sunlight shining upon them.
+### End of the Season:
 
-## End of the Season:
+ For countries in the Northern Hemisphere the season of Spring starts, astronomically, between the 19th of March and the 21st. With the season ending three months later in June.
+ However for those int the Southern Hemisphere as north of the equator is expecting spring, they are having autumn due to the Earthâ€™s tilt resulting them into experiencing the shorter length of days.
+  
+ The Southern spring is from between September 22nd and September 24th, lasting for the same 90 days, ending in the final fortnight of the year, around the 22nd.
+ Places closer to the equator noticing less of a difference due to the lack of a large difference in day length.
 
-As spring transitions into the summer time and the increased high temperatures of daytime, the previously rapid growth slows down.
-This is due to enzymes behind photosynthesis not being able to function during the heat of the day, this is accompanied by the lower level of rainfall resulting in the lower soil moisture surrounding the tree’s roots.
-
-### **Chapters:**
+#### **Chapters:**
 
 * [Chapter 1](chapter01.md)
 
