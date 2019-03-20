@@ -9,6 +9,10 @@ This is shown is the numbers of flies flying about during spring.
 
 ### Spiders
 
+Spiders spend the winter typically in man-made structures such as homes, garden sheds.
+They are often found nested within the home in places like attics, closets or even inside the walls of the structure itself.
+They do this while they wait for the weather to get more bearable as it does in spring, they are quick to bolt out to the wider world.
+Despite the fear or discomfort they often bring when seen, they are beneficial to have as they eat other insects like flies.
 
 ### Ants
 
