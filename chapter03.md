@@ -16,7 +16,10 @@ Despite the fear or discomfort they often bring when seen, they are beneficial t
 
 ### Ants
 
-
+Ants are one species that hibernate during cold months.
+With the sudden drop of temperature in the winter, ants’ movements start to slow down gradually until the insect is in the hibernated state. Due to the hive traffic being drastically halted, the entrance gets blocked naturally.
+However, once the spring temperature arrive, the reverse happens.
+Ants will begin to recover from their slumber and start to slowly resume their previous work.
 
 #### **Chapters:**
 
